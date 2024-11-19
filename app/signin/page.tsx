@@ -6,7 +6,7 @@ function page() {
   return (
     <>
       <Header />
-      <main className='flex flex-col justify-end items-center'>
+      <main className='h-screen flex justify-center items-center'>
         <SignIn />
       </main>
     </>
